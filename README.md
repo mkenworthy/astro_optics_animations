@@ -4,6 +4,8 @@ Matthew Kenworthy - Leiden Observatory - kenworthy@strw.leidenuniv.nl
 
 Animations made with `hcipy` to demonstrate optical principles in telescopes.
 
+Animations of the [Nancy Grace Roman Space Telescope Coronagraph](ngrst/)  by Bruce Macintosh.
+
 ![PSF versus bandwidth](./anim_psf_vs_bandwidth_v1.gif)
 
 ![Five element interferometer](./interferometers_v1.gif)
